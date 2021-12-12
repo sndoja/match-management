@@ -1,10 +1,10 @@
 package com.example.matchmanagement.controller;
 
-import com.example.matchmanagement.matches.MatchesRepository;
-import com.example.matchmanagement.odds.OddsRepository;
 import com.example.matchmanagement.exception.ResourceNotFoundException;
 import com.example.matchmanagement.matches.MatchModel;
+import com.example.matchmanagement.matches.MatchesRepository;
 import com.example.matchmanagement.odds.MatchOddsModel;
+import com.example.matchmanagement.odds.OddsRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
