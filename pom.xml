@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>match-management</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.2.RELEASE</version>
     <name>match-management</name>
     <description>match-management</description>
     <properties>
